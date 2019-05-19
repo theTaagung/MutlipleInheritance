@@ -1,0 +1,11 @@
+C:\Users\Atul\source\repos\MultipleInheritence\MultipleInheritence\bin\Debug\netcoreapp2.1\MultipleInheritence.deps.json
+C:\Users\Atul\source\repos\MultipleInheritence\MultipleInheritence\bin\Debug\netcoreapp2.1\MultipleInheritence.runtimeconfig.json
+C:\Users\Atul\source\repos\MultipleInheritence\MultipleInheritence\bin\Debug\netcoreapp2.1\MultipleInheritence.runtimeconfig.dev.json
+C:\Users\Atul\source\repos\MultipleInheritence\MultipleInheritence\bin\Debug\netcoreapp2.1\MultipleInheritence.dll
+C:\Users\Atul\source\repos\MultipleInheritence\MultipleInheritence\bin\Debug\netcoreapp2.1\MultipleInheritence.pdb
+C:\Users\Atul\source\repos\MultipleInheritence\MultipleInheritence\obj\Debug\netcoreapp2.1\MultipleInheritence.csprojAssemblyReference.cache
+C:\Users\Atul\source\repos\MultipleInheritence\MultipleInheritence\obj\Debug\netcoreapp2.1\MultipleInheritence.csproj.CoreCompileInputs.cache
+C:\Users\Atul\source\repos\MultipleInheritence\MultipleInheritence\obj\Debug\netcoreapp2.1\MultipleInheritence.AssemblyInfoInputs.cache
+C:\Users\Atul\source\repos\MultipleInheritence\MultipleInheritence\obj\Debug\netcoreapp2.1\MultipleInheritence.AssemblyInfo.cs
+C:\Users\Atul\source\repos\MultipleInheritence\MultipleInheritence\obj\Debug\netcoreapp2.1\MultipleInheritence.dll
+C:\Users\Atul\source\repos\MultipleInheritence\MultipleInheritence\obj\Debug\netcoreapp2.1\MultipleInheritence.pdb
