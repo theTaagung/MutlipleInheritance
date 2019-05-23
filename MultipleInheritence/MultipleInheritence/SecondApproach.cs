@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -6,13 +6,17 @@ namespace MultipleInheritence.SecondApproach
 {
     class ParentA
     {
-        public void MethodA()
+        public void MethodX()
         {
-            Console.WriteLine("MethodA from ParentA called");
+            Console.WriteLine("MethodX from ParentA called");
         }
-        public void MethodB()
+        public void MethodY()
         {
-            Console.WriteLine("MethodB from ParentA called");
+            Console.WriteLine("MethodY from ParentA called");
+        }
+        public void MethodZ()
+        {
+            Console.WriteLine("MethodZ from ParentA called");
         }
     }
 
@@ -22,30 +26,21 @@ namespace MultipleInheritence.SecondApproach
         {
             Console.WriteLine("MethodA from ParentB called");
         }
-        public void MethodB()
-        {
-            Console.WriteLine("MethodB from ParentB called");
-        }
+      
     }
 
     interface IParentB
     {
         void MethodA();
-        void MethodB();
+      
     }
 
     class Child : ParentA, IParentB
     {
         ParentB objParentB = new ParentB();
-        
-        public void ParentBMethodA()
+        public void MethodA()
         {
             objParentB.MethodA();
-        }
-
-        public void ParentBMethodB()
-        {
-            objParentB.MethodB();
         }
     }
 
