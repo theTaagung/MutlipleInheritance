@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace MultipleInheritence
 {
@@ -15,14 +15,14 @@ namespace MultipleInheritence
 
             Console.WriteLine("Second Approach");
             SecondApproach.Child objChild2 = new SecondApproach.Child();
+            objChild2.MethodX();
             objChild2.MethodA();
-            objChild2.ParentBMethodB();
+
+
+            // objChild2.ParentBMethodB();
 
             Console.ReadLine();
         }
     }
-
-   
-
  }
 
